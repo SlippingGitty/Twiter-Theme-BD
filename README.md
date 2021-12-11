@@ -27,7 +27,7 @@ You can change your own colors, too. Navigate through the .css file, and find th
 }
 ```
 
-You can change these colors, and it'll reflect the colors used in the theme. This is exactly what I did for this fork. ~~You probably don't need this fork of the theme, anyways xD.~~
+You can change these colors, and it'll reflect the colors used in the theme. This is exactly what I did for this fork. ~~You probably don't need this fork of the theme riight now, anyways xD.~~
 
 This theme will NOT auto update with upstream. That's something I'll have to update manually. The idea for this theme in the long run will be to make it look more like TweetDeck. 
 
