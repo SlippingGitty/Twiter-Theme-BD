@@ -2,7 +2,7 @@
 
 A theme based on the [Twitter Dim mode theme](https://github.com/zuzumi-f/Twiter-Theme-BD), but I changed some colors LOL
 
-You can change your own colors, too. Navigate through the base.css file, and find this:
+You can change your own colors, too. Navigate through the .css file, and find this:
 
 ```css
 /* Twitter Colors */
@@ -28,7 +28,7 @@ You can change your own colors, too. Navigate through the base.css file, and fin
 
 You can change these colors, and it'll reflect the colors used in the theme. This is exactly what I did for this fork. You probably don't need this fork of the theme, anyways xD.
 
-This theme will NOT auto update.
+This theme will NOT auto update with upstream. That's something I'll have to update manually. The idea for this theme in the long run will to make it look more like tweetdeck. 
 
 
 
